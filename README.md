@@ -29,5 +29,4 @@ First you should check out my youtube video if you haven't yet (comming soon)
 
 10. Final thing to do is "bundle install" and you're done if there wasn't any errors
 
-
 If you're having an error or you just wanna contact me, heres my email: miksu.rankaviita@gmail.com
