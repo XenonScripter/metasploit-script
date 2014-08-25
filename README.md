@@ -7,8 +7,8 @@ I made this script so i don't need to use Kali Linux to run Metasploit on Androi
 
 How to install metasploit on android using this script in debian noroot:
 First you should check out my youtube video if you haven't yet (comming soon)
-1. Download debian noroot from playstore(Press that link up there)
-2. Open debian noroot, let it install and configure settings if needed
+               1. Download debian noroot from playstore(Press that link up there)
+             2. Open debian noroot, let it install and configure settings if needed
 3. Open ROOT terminal and type "apt-get update" then "apt-get upgrade"
 4. After you've updated your linux install github with "apt-get install git" command
 5. Pull my script from github with "git clone https://github.com/MiksuLinuxGuy/metasploit-script.git
