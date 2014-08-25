@@ -9,7 +9,7 @@ How to install metasploit on android using this script in debian noroot:
 
 First you should check out my youtube video if you haven't yet (comming soon)
 
-1. Download debian noroot from playstore(Press that link up there)
+1. Download debian noroot from Google Playstore(http://adf.ly/rRb7V)
 
 2. Open debian noroot, let it install and configure settings if needed
 
