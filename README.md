@@ -29,7 +29,7 @@ First you should check out my youtube video if you haven't yet (comming soon)
 
 10. Final thing to do is "bundle install" and you're done if there wasn't any errors
 
-11. Now you just have to type msfconsole and it will start metasploit. Firs start will always take long.
+11. Now you just have to type msfconsole and it will start metasploit. First start will always take long.
 
 If you're having an error or you just wanna contact me, heres my email: miksu.rankaviita@gmail.com
 
