@@ -12,6 +12,6 @@ gem install --verbose --debug pcaprub wirble pg sqlite3 msgpack activerecord red
 cd /opt
 git clone https://github.com/rapid7/metasploit-framework.git
 #gets metasploit source from github
-cd metasploit-framework
-cd metasploit-framework bash -c 'for MSF in $(ls msf*); do ln -s /opt/metasploit-framework/$MSF /usr/local/bin/$MSF;done'
+cd /opt/metasploit-framework
+cd /opt/metasploit-framework bash -c 'for MSF in $(ls msf*); do ln -s /opt/metasploit-framework/$MSF /usr/local/bin/$MSF;done'
 #sets commands
