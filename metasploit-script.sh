@@ -8,6 +8,7 @@ rvm install ruby-1.9.3-p484
 source /usr/local/rvm/scripts/rvm
 #finishes ruby installation
 gem install --verbose --debug pcaprub wirble pg sqlite3 msgpack activerecord redcarpet rspec simplecov yard bundler
+gem install nokogiri -- --use-system-libraries
 #installs ruguired ruby gems
 cd /opt
 git clone https://github.com/rapid7/metasploit-framework.git
