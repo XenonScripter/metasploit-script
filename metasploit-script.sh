@@ -14,5 +14,5 @@ cd /opt
 git clone https://github.com/rapid7/metasploit-framework.git
 #gets metasploit source from github
 cd /opt/metasploit-framework
-cd /opt/metasploit-framework bash -c 'for MSF in $(ls msf*); do ln -s /opt/metasploit-framework/$MSF /usr/local/bin/$MSF;done'
+bash -c 'for MSF in $(ls msf*); do ln -s /opt/metasploit-framework/$MSF /usr/local/bin/$MSF;done'
 #sets commands
