@@ -32,10 +32,3 @@ First you should check out my youtube video if you haven't yet (comming soon)
 11. Now you just have to type msfconsole and it will start metasploit. First start will always take long.
 
 If you're having an error or you just wanna contact me, heres my email: miksu.rankaviita@gmail.com
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="S2D3MLRWFEHD2">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
