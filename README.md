@@ -33,6 +33,6 @@ First you should check out my youtube video if you haven't yet (comming soon)
 
 If you're having an error or you just wanna contact me, heres my email: miksu.rankaviita@gmail.com
 
-If you liked my tutorial, go donate in my blog(http://adf.ly/rjLsy). Even 5$ would make me happy. Thanks for all donations.(Your name will show down bleow if you donate)
+If you liked my tutorial, go donate in my blog(http://adf.ly/rjLsy). Even 5$ would make me happy.(Your name will show down bleow if you donate)
 
 Donated: 
