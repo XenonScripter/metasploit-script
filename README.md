@@ -3,7 +3,7 @@ metasploit-script
 
 Metasploit installatoin script for Debian Wheezy XFCE. Used to install metaspoit on debian noroot(http://adf.ly/rRb7V) for Android.
 
-I made this script so i don't need to use Kali Linux to run Metasploit on Android because running Kali needs rooted device and kernel that supports loop device. So this don't need loop device support and it should technicly work without root but i haven't tested it yet on nonrooted phone.
+I made this script so i don't need to use Kali Linux to run Metasploit on Android because running Kali needs rooted device and kernel that supports loop device. So this don't need loop device support and it should technicly work without root but i haven't tested it yet on nonrooted phone. Just be aware that I'm showing this for educational purposes only and I'm not responsible if you do any harm with metasploit.
 
 How to install metasploit on android using this script in debian noroot:
 
